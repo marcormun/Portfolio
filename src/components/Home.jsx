@@ -14,7 +14,7 @@ const Home = () => {
           I'm a Junior Full Stack Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          I'm a junior full-stack developer looking forward to know the labour market of programming and worki on ambitious projects.
+          I'm a junior full-stack developer looking forward to know the labour market of programming and work on ambitious projects.
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
